@@ -7,3 +7,5 @@ if(age < 10):
     print("ceva")
 else:
     print("Merge")
+
+print("This is working from terminal")
