@@ -9,3 +9,4 @@ else:
     print("Merge")
 
 print("This is working from terminal")
+print("test")
